@@ -8,3 +8,4 @@ normal
 **Texto en negrita**
 
 *Texto en itálica*  
+**#negrita ne itálica#**
