@@ -4,3 +4,5 @@
 
 ###### Encabezado nivel 6
 normal
+
+**Texto en negrita**
