@@ -6,3 +6,5 @@
 normal
 
 **Texto en negrita**
+
+*Texto en itálica*  
